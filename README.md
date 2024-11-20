@@ -93,5 +93,3 @@ Offering tools for academic institutions to teach and train students in genetics
 Assisting organizations in adhering to data privacy laws like GDPR and HIPAA, and shaping industry standards.
 
 ---
-
-This structure ensures that the README is visually appealing and fully functional when viewed on GitHub, with properly formatted sections, lists, and tables. Let me know if you need further refinements! 🚀
