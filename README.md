@@ -50,7 +50,7 @@ The project is designed to address the fragmented nature of the current genetics
 | Dataset integration (Ensembl API, dbSNP)  | **In Progress**   |
 | Conversational fine-tuning (DECODE)       | **Pending**       |
 | Prompt engineering for physician reports  | **In Progress**   |
-| Array data processing pipeline            | **Completed**     |
+| Array data processing pipeline            | **Pending**       |
 | Next-gen sequencing data processing       | **In Progress**   |
 | Automated variant report generation       | **In Progress**   |
 | Search functionality for physicians       | **Pending**       |
